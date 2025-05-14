@@ -1,10 +1,15 @@
 # RPS-python-duel
 Your favorite rock-paper-scissors game with python. Challenge the computer and test your luck!
 
-🎮 Features
+=> Features
 
-- User chooses Rock, Paper, or Scissors
-- Computer randomly picks a move
-- Outcome is displayed with intuitive ASCII art
-- Basic input validation
-- Beginner-friendly Python syntax
+- Simple and intuitive text-based interface
+- Randomized computer moves
+- Clean Python code for beginners
+- Replay option after each round
+
+ => How to Play
+1. Run the script.
+2. Choose your move: `rock`, `paper`, or `scissors`.
+3. See if you win, lose, or draw against the computer.
+4. Play again or exit.
